@@ -1,0 +1,6 @@
+
+public class add_mult_divTest {
+
+	@test
+	void add_test()
+}
